@@ -1,0 +1,49 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Asset meta data should only be ignored when the corresponding asset is ignored
+!/[Aa]ssets/**/*.meta
+
+# Auto-generated Jetbrains Rider plugin
+Assets/Plugins/Editor/JetBrains*
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity generated files
+sysinfo.txt
+
+# Crash reports
+crashlytics-build.properties
+
+# OS files
+.DS_Store
+
+# Build artifacts in project root
+*.apk
+*.aab
+*.ipa
+*.app
+*.exe
+*.zip
